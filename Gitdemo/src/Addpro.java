@@ -6,5 +6,8 @@ public class Addpro {
 	System.out.println(j+b);
 
 	}
-
+	void getrep(){
+		
+		
+	}
 }
