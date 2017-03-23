@@ -2,8 +2,8 @@
 public class Addpro {
 
 	public static void main(String[] args) {
-	int a = 10, b=5;
-	System.out.println(a+b);
+	int j = 10, b=5;
+	System.out.println(j+b);
 
 	}
 
