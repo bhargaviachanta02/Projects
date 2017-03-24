@@ -9,7 +9,7 @@ public class Demo {
 		   }
 		   
 		   System.out.print(""+s.charAt(i++));
-		   System.out.println("hello");
+		   System.out.println("Bye");
 		   printAll(s.substring(0,s.length()-1));
 		    
 		}
