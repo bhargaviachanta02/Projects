@@ -8,7 +8,9 @@ public class Demo {
 		   }
 		   
 		   System.out.print(""+s.charAt(i++));
-		   System.out.println("hello  hai");
+
+		   System.out.println("hello  hai bye");
+
 		   printAll(s.substring(0,s.length()-1));
 		    
 		}
